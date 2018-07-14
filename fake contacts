@@ -1,0 +1,18 @@
+  {
+    firstName: 'Rowdy',
+    lastName:'Yates',
+    phoneNumber:'1233455678',
+    email: 'keepemrollin@gmail.com'
+   },
+   {
+    firstName: 'Flint',
+    lastName: 'McCullough',
+    phoneNumber: '2344566789',
+    email: 'ridinghigh@gmail.com'
+   },
+   {
+    firstName: 'Yul',
+    lastName:'Brenner',
+    phoneNumber:'3455677789',
+    email: 'brensonscrossing@gmail.com'
+},
